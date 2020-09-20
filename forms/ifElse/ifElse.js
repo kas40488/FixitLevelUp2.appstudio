@@ -1,4 +1,4 @@
-
+//ifElse form
 // message and state abbreviation arrays
 let messages = ['Wear a warm coat, hat, scarf and gloves.', 'Wear a warm coat, but you won\'t need a hat, scarf or gloves.', 'Wear a light jacket and smile!', 'Wear a less heavy coat.', 'Oops, something happened. Please try again.']
 let stateName = ['NE', 'FL']
